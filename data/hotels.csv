@@ -1,0 +1,501 @@
+hotel_id,city,country,hotel_category,average_nightly_rate,rating,room_type,margin_rate
+1,Dubai,UK,3-star,316.55,3.2,suite,0.11
+2,Dubai,Spain,4-star,150.85,4.0,deluxe,0.18
+3,Dubai,Spain,5-star,441.22,3.1,suite,0.18
+4,Rome,France,3-star,79.14,4.7,deluxe,0.11
+5,Rome,France,3-star,183.73,3.4,suite,0.15
+6,Berlin,Italy,4-star,222.8,3.8,standard,0.14
+7,Rome,Germany,5-star,448.27,4.4,standard,0.15
+8,Dubai,Spain,3-star,464.33,3.6,standard,0.14
+9,New York,France,5-star,370.73,4.2,deluxe,0.16
+10,Madrid,Italy,5-star,337.49,3.1,suite,0.14
+11,Paris,US,5-star,378.47,4.7,deluxe,0.17
+12,San Francisco,US,5-star,357.58,4.0,standard,0.18
+13,Berlin,France,3-star,499.36,3.9,deluxe,0.14
+14,Paris,Germany,4-star,316.54,3.6,suite,0.15
+15,Dubai,Italy,5-star,261.06,3.3,deluxe,0.13
+16,Dubai,Germany,3-star,215.31,4.4,standard,0.1
+17,New York,US,5-star,170.18,4.9,suite,0.14
+18,Berlin,Italy,4-star,152.4,3.3,deluxe,0.17
+19,London,UK,5-star,100.61,3.0,deluxe,0.11
+20,Sydney,Spain,5-star,260.87,3.2,standard,0.13
+21,Berlin,UK,3-star,252.54,3.5,standard,0.11
+22,Paris,France,5-star,111.45,4.4,suite,0.18
+23,London,UK,5-star,73.02,3.4,standard,0.2
+24,New York,France,5-star,246.38,3.8,standard,0.13
+25,Dubai,US,3-star,402.77,4.4,suite,0.16
+26,Dubai,France,4-star,162.79,3.6,deluxe,0.11
+27,Tokyo,UK,4-star,253.95,3.7,standard,0.19
+28,Rome,US,5-star,292.15,3.1,deluxe,0.11
+29,Rome,Spain,3-star,51.54,3.3,deluxe,0.14
+30,Paris,US,4-star,325.99,4.1,standard,0.17
+31,Berlin,Spain,3-star,391.13,3.6,standard,0.16
+32,Rome,France,3-star,91.42,4.0,standard,0.15
+33,Tokyo,Spain,5-star,371.0,3.4,suite,0.13
+34,New York,Italy,5-star,121.99,3.7,suite,0.16
+35,San Francisco,France,5-star,187.21,4.2,standard,0.15
+36,Tokyo,Italy,3-star,454.67,3.0,suite,0.13
+37,Dubai,Italy,4-star,241.88,4.9,standard,0.19
+38,London,Germany,4-star,427.3,4.8,suite,0.13
+39,Dubai,US,3-star,307.46,4.7,suite,0.17
+40,New York,US,4-star,98.71,4.8,deluxe,0.12
+41,Madrid,France,5-star,146.11,3.4,deluxe,0.18
+42,New York,Spain,5-star,183.93,4.3,deluxe,0.18
+43,Rome,France,5-star,142.19,4.2,standard,0.13
+44,Berlin,US,4-star,478.75,3.3,standard,0.16
+45,New York,UK,3-star,240.79,3.8,standard,0.11
+46,Sydney,UK,5-star,94.65,3.6,deluxe,0.19
+47,London,US,5-star,191.86,4.3,deluxe,0.18
+48,London,UK,5-star,96.44,3.0,suite,0.14
+49,Sydney,Germany,4-star,244.48,3.9,suite,0.11
+50,London,UK,3-star,262.62,3.5,deluxe,0.19
+51,Tokyo,Spain,3-star,357.62,3.3,standard,0.14
+52,Rome,France,3-star,291.35,3.2,deluxe,0.17
+53,Dubai,UK,4-star,360.19,3.6,deluxe,0.13
+54,Tokyo,Spain,4-star,96.5,4.6,deluxe,0.12
+55,Berlin,US,4-star,115.93,3.8,standard,0.2
+56,Sydney,Germany,3-star,283.67,3.9,suite,0.11
+57,Dubai,Spain,5-star,132.48,4.4,suite,0.19
+58,San Francisco,Spain,5-star,99.95,3.5,suite,0.18
+59,Dubai,UK,4-star,142.43,4.9,deluxe,0.16
+60,New York,Spain,3-star,336.82,3.8,suite,0.16
+61,Berlin,Spain,5-star,338.42,3.6,suite,0.16
+62,San Francisco,UK,5-star,121.91,3.5,suite,0.12
+63,Rome,Germany,5-star,437.71,4.8,standard,0.14
+64,Dubai,Italy,3-star,466.1,3.1,suite,0.11
+65,Paris,Spain,3-star,316.1,3.7,deluxe,0.18
+66,San Francisco,UK,4-star,309.72,4.4,deluxe,0.18
+67,Sydney,UK,3-star,328.07,3.4,standard,0.19
+68,Rome,US,5-star,490.01,3.9,standard,0.12
+69,Sydney,Germany,5-star,480.16,3.9,standard,0.2
+70,Berlin,Germany,5-star,449.79,3.3,standard,0.13
+71,Paris,US,5-star,272.39,3.2,suite,0.16
+72,San Francisco,UK,4-star,402.19,4.9,standard,0.19
+73,Sydney,France,4-star,52.3,3.3,standard,0.14
+74,Sydney,Germany,3-star,473.66,4.3,standard,0.2
+75,Berlin,UK,4-star,217.43,3.1,deluxe,0.11
+76,London,US,3-star,183.18,4.9,deluxe,0.12
+77,Paris,Spain,4-star,379.08,4.5,standard,0.13
+78,Sydney,Italy,3-star,437.42,3.6,standard,0.13
+79,Madrid,France,4-star,116.9,4.7,deluxe,0.14
+80,Dubai,US,4-star,460.32,4.0,standard,0.19
+81,Madrid,Italy,3-star,476.1,3.3,suite,0.13
+82,London,US,3-star,300.82,4.2,suite,0.18
+83,Madrid,Spain,5-star,262.68,5.0,deluxe,0.13
+84,Rome,Italy,5-star,251.46,4.3,suite,0.11
+85,Madrid,France,4-star,429.93,4.2,standard,0.11
+86,Sydney,France,5-star,323.31,4.8,suite,0.13
+87,Sydney,UK,4-star,356.87,3.5,deluxe,0.16
+88,Rome,US,5-star,206.95,3.4,standard,0.19
+89,Dubai,Italy,3-star,353.75,4.7,suite,0.14
+90,New York,Italy,4-star,194.52,4.0,deluxe,0.19
+91,Dubai,US,3-star,98.97,3.0,suite,0.12
+92,Sydney,Germany,5-star,324.01,3.4,deluxe,0.17
+93,San Francisco,Spain,4-star,496.39,3.4,standard,0.18
+94,San Francisco,Italy,3-star,359.95,3.9,standard,0.14
+95,San Francisco,UK,3-star,425.22,4.8,deluxe,0.19
+96,New York,Germany,4-star,50.04,3.3,standard,0.15
+97,London,France,3-star,115.84,3.8,suite,0.19
+98,San Francisco,Italy,5-star,90.76,3.1,suite,0.19
+99,Rome,UK,5-star,435.48,3.2,standard,0.14
+100,San Francisco,Italy,5-star,467.51,3.7,deluxe,0.1
+101,Tokyo,Spain,5-star,417.25,4.6,deluxe,0.18
+102,Rome,UK,5-star,436.97,3.4,standard,0.16
+103,New York,Spain,3-star,403.59,3.5,suite,0.2
+104,Sydney,UK,3-star,350.11,4.0,deluxe,0.19
+105,Tokyo,UK,5-star,304.55,4.7,deluxe,0.14
+106,Madrid,Spain,4-star,447.79,3.8,standard,0.11
+107,Rome,Spain,5-star,498.26,3.1,suite,0.19
+108,London,US,4-star,333.62,4.4,suite,0.18
+109,Madrid,France,5-star,268.02,4.7,standard,0.2
+110,Sydney,Germany,5-star,85.76,4.8,deluxe,0.1
+111,London,UK,3-star,97.62,4.8,suite,0.11
+112,Berlin,France,3-star,194.16,4.6,standard,0.15
+113,Tokyo,Italy,3-star,382.34,4.0,deluxe,0.2
+114,Paris,Italy,5-star,178.98,3.1,suite,0.12
+115,New York,Italy,4-star,412.27,4.3,deluxe,0.14
+116,London,Italy,3-star,432.43,4.2,deluxe,0.2
+117,Berlin,France,5-star,349.07,4.2,deluxe,0.15
+118,London,Germany,4-star,308.12,3.3,standard,0.11
+119,New York,Germany,4-star,215.65,4.0,standard,0.19
+120,London,France,3-star,407.45,4.7,standard,0.16
+121,Madrid,UK,5-star,292.55,4.7,deluxe,0.13
+122,Sydney,Italy,4-star,147.31,3.7,suite,0.16
+123,Tokyo,France,4-star,196.8,3.6,standard,0.12
+124,Sydney,Spain,4-star,118.44,3.7,suite,0.17
+125,Paris,Spain,5-star,174.37,4.1,suite,0.13
+126,New York,US,4-star,207.5,4.4,standard,0.19
+127,Sydney,Spain,3-star,434.88,3.7,standard,0.15
+128,Rome,US,4-star,249.35,3.0,suite,0.19
+129,Paris,US,5-star,286.29,3.1,deluxe,0.19
+130,Dubai,UK,5-star,387.3,4.0,standard,0.16
+131,Tokyo,France,5-star,407.53,3.0,suite,0.1
+132,Dubai,France,5-star,298.97,3.5,suite,0.17
+133,Rome,Germany,4-star,83.82,3.8,standard,0.15
+134,New York,US,5-star,429.06,4.5,suite,0.18
+135,Sydney,Germany,4-star,349.62,3.5,deluxe,0.13
+136,Dubai,US,3-star,203.57,4.3,deluxe,0.17
+137,Berlin,France,3-star,214.97,3.8,standard,0.14
+138,Sydney,UK,4-star,340.55,3.3,deluxe,0.15
+139,Berlin,UK,4-star,124.29,4.9,suite,0.12
+140,Sydney,Spain,5-star,99.21,4.7,suite,0.18
+141,New York,Germany,4-star,269.91,3.7,suite,0.19
+142,Tokyo,France,3-star,291.12,3.6,deluxe,0.19
+143,Madrid,US,4-star,438.61,4.4,standard,0.13
+144,San Francisco,US,5-star,291.07,4.7,suite,0.16
+145,San Francisco,UK,3-star,265.17,4.1,deluxe,0.2
+146,Madrid,Germany,3-star,329.2,4.4,deluxe,0.15
+147,San Francisco,France,4-star,113.85,3.2,deluxe,0.2
+148,Madrid,Italy,5-star,147.29,3.3,deluxe,0.16
+149,Rome,Germany,3-star,439.14,3.9,standard,0.18
+150,Paris,US,5-star,159.41,4.3,deluxe,0.13
+151,Sydney,France,5-star,393.75,3.8,suite,0.11
+152,Rome,US,3-star,256.63,3.3,deluxe,0.14
+153,London,Germany,3-star,463.01,4.0,deluxe,0.11
+154,Rome,France,3-star,402.46,3.3,standard,0.2
+155,Sydney,France,3-star,157.2,4.4,deluxe,0.16
+156,Tokyo,Germany,4-star,389.83,4.1,suite,0.12
+157,New York,France,5-star,459.67,4.9,suite,0.12
+158,Tokyo,UK,3-star,422.74,4.0,suite,0.15
+159,Paris,France,3-star,163.56,4.5,suite,0.17
+160,San Francisco,Italy,3-star,282.35,3.4,suite,0.15
+161,Berlin,Spain,5-star,86.07,3.6,suite,0.19
+162,New York,UK,4-star,392.93,4.5,suite,0.17
+163,Rome,US,3-star,374.69,3.7,standard,0.16
+164,Berlin,UK,4-star,476.8,3.8,deluxe,0.16
+165,Dubai,Spain,4-star,363.47,4.7,deluxe,0.19
+166,Tokyo,Italy,5-star,353.82,4.0,standard,0.14
+167,New York,US,4-star,247.73,4.2,standard,0.18
+168,Berlin,Germany,4-star,55.53,4.9,suite,0.11
+169,London,UK,5-star,260.9,3.7,suite,0.14
+170,Madrid,US,3-star,327.22,3.9,standard,0.1
+171,New York,Spain,3-star,414.61,4.9,deluxe,0.17
+172,Paris,Italy,4-star,255.37,3.8,standard,0.18
+173,Paris,France,5-star,251.84,4.2,suite,0.11
+174,Sydney,Italy,5-star,277.63,4.9,suite,0.13
+175,Paris,France,4-star,58.93,3.7,deluxe,0.19
+176,Tokyo,US,4-star,310.65,4.6,standard,0.14
+177,Berlin,US,4-star,283.11,4.8,deluxe,0.12
+178,London,France,4-star,71.01,4.2,standard,0.17
+179,Tokyo,Italy,5-star,91.07,3.7,suite,0.16
+180,Sydney,Germany,4-star,209.44,3.3,deluxe,0.16
+181,New York,Italy,5-star,297.6,3.3,suite,0.13
+182,New York,Germany,3-star,87.79,3.5,deluxe,0.12
+183,Sydney,US,5-star,210.29,4.0,suite,0.15
+184,Tokyo,US,5-star,119.12,3.5,suite,0.13
+185,New York,Germany,4-star,330.06,4.7,standard,0.2
+186,New York,US,5-star,473.92,4.0,deluxe,0.14
+187,Tokyo,Germany,3-star,78.31,4.5,deluxe,0.13
+188,London,France,4-star,180.34,4.8,deluxe,0.16
+189,Sydney,Italy,5-star,133.99,4.4,standard,0.11
+190,San Francisco,France,3-star,473.61,4.8,suite,0.14
+191,San Francisco,Italy,3-star,182.2,4.6,standard,0.13
+192,Dubai,US,4-star,425.78,4.2,suite,0.11
+193,Madrid,US,3-star,61.66,4.7,suite,0.19
+194,Berlin,Germany,3-star,86.6,3.3,standard,0.13
+195,San Francisco,Spain,3-star,152.44,4.1,deluxe,0.16
+196,Madrid,UK,5-star,276.12,3.4,standard,0.11
+197,Dubai,UK,3-star,182.91,4.8,standard,0.19
+198,Rome,US,3-star,144.96,4.9,deluxe,0.12
+199,Dubai,Spain,4-star,359.61,4.2,suite,0.1
+200,London,US,3-star,283.64,4.9,suite,0.19
+201,Tokyo,US,5-star,360.57,3.8,deluxe,0.19
+202,Berlin,Germany,3-star,489.98,3.7,standard,0.19
+203,Tokyo,France,3-star,94.54,4.2,suite,0.19
+204,Rome,Italy,4-star,461.15,3.2,deluxe,0.12
+205,London,France,4-star,476.28,3.4,deluxe,0.19
+206,Sydney,Spain,3-star,305.11,4.3,suite,0.11
+207,Dubai,Italy,4-star,230.49,4.3,deluxe,0.13
+208,Rome,UK,5-star,155.13,4.9,suite,0.18
+209,Sydney,Germany,5-star,306.86,3.6,deluxe,0.16
+210,Rome,France,5-star,131.4,3.4,deluxe,0.15
+211,Tokyo,UK,3-star,489.28,3.2,deluxe,0.16
+212,New York,Spain,3-star,102.04,3.1,deluxe,0.14
+213,Tokyo,Spain,4-star,293.23,4.2,deluxe,0.18
+214,San Francisco,Germany,4-star,146.11,4.2,suite,0.13
+215,San Francisco,US,4-star,442.57,3.4,suite,0.12
+216,Rome,US,5-star,87.44,3.4,deluxe,0.11
+217,Dubai,Spain,5-star,390.28,4.0,deluxe,0.18
+218,London,France,4-star,380.92,3.3,standard,0.19
+219,Berlin,UK,5-star,255.86,3.1,suite,0.18
+220,Dubai,UK,4-star,490.24,3.6,deluxe,0.17
+221,Sydney,Germany,3-star,421.16,4.9,deluxe,0.12
+222,Tokyo,Italy,5-star,395.66,3.2,suite,0.14
+223,Dubai,France,3-star,383.93,3.0,standard,0.18
+224,Sydney,UK,4-star,470.94,3.5,suite,0.19
+225,New York,UK,5-star,352.86,3.0,suite,0.2
+226,Paris,France,4-star,211.46,4.4,suite,0.15
+227,San Francisco,France,4-star,345.54,4.9,standard,0.15
+228,Paris,Italy,4-star,464.6,3.0,deluxe,0.16
+229,Berlin,Italy,3-star,221.23,4.6,suite,0.17
+230,New York,France,5-star,307.35,3.6,standard,0.16
+231,Berlin,Spain,4-star,258.96,4.7,suite,0.16
+232,Rome,Italy,4-star,454.94,3.1,standard,0.2
+233,Paris,US,4-star,327.91,4.8,suite,0.16
+234,Paris,France,5-star,144.54,3.6,suite,0.16
+235,San Francisco,UK,3-star,221.15,4.0,suite,0.12
+236,Dubai,Italy,5-star,342.62,4.2,deluxe,0.2
+237,Paris,Italy,4-star,334.23,4.1,deluxe,0.2
+238,Dubai,US,4-star,382.12,3.8,standard,0.13
+239,Paris,UK,3-star,220.47,3.6,suite,0.2
+240,Sydney,Germany,5-star,414.76,4.0,suite,0.19
+241,Tokyo,UK,4-star,104.22,3.0,suite,0.19
+242,London,UK,3-star,315.81,4.9,suite,0.18
+243,Sydney,UK,4-star,275.65,3.7,deluxe,0.12
+244,Sydney,US,3-star,384.97,3.4,deluxe,0.11
+245,Dubai,US,3-star,258.43,4.1,suite,0.15
+246,Berlin,UK,3-star,230.86,3.5,suite,0.13
+247,Madrid,France,5-star,449.56,3.7,suite,0.14
+248,San Francisco,Spain,5-star,220.77,4.2,suite,0.16
+249,New York,Spain,3-star,341.03,4.9,standard,0.17
+250,New York,Italy,4-star,469.22,3.7,deluxe,0.15
+251,Paris,US,5-star,424.14,4.0,suite,0.13
+252,Berlin,Spain,3-star,61.77,3.3,standard,0.12
+253,Sydney,France,5-star,136.84,4.0,deluxe,0.11
+254,San Francisco,France,5-star,357.44,3.9,deluxe,0.19
+255,Paris,US,5-star,341.85,3.1,suite,0.2
+256,Tokyo,France,5-star,487.07,4.3,standard,0.14
+257,Rome,Spain,5-star,216.6,4.5,suite,0.14
+258,Dubai,UK,4-star,136.33,3.7,deluxe,0.16
+259,Sydney,Italy,4-star,496.81,3.8,suite,0.11
+260,Paris,Italy,3-star,228.09,4.2,standard,0.13
+261,Paris,Germany,3-star,391.18,4.9,deluxe,0.12
+262,New York,Spain,4-star,341.25,4.4,deluxe,0.15
+263,Berlin,US,5-star,297.24,4.7,deluxe,0.17
+264,Paris,US,4-star,155.1,4.0,suite,0.12
+265,Dubai,Germany,5-star,262.67,3.0,standard,0.15
+266,Rome,Italy,3-star,186.24,4.5,suite,0.19
+267,Rome,US,3-star,152.8,4.6,suite,0.18
+268,Paris,Spain,4-star,243.23,3.9,suite,0.19
+269,New York,Germany,3-star,171.85,5.0,suite,0.12
+270,Dubai,UK,5-star,169.13,4.2,suite,0.15
+271,San Francisco,Spain,4-star,131.19,3.7,standard,0.1
+272,Paris,UK,5-star,63.1,4.7,suite,0.18
+273,Berlin,France,3-star,306.07,4.5,suite,0.17
+274,Madrid,US,5-star,377.07,3.4,suite,0.12
+275,Berlin,Germany,3-star,312.05,3.5,deluxe,0.13
+276,Rome,US,4-star,132.1,4.7,deluxe,0.12
+277,Berlin,Spain,3-star,488.07,4.2,suite,0.17
+278,London,Germany,5-star,456.76,3.0,suite,0.11
+279,Paris,Germany,5-star,247.26,4.0,suite,0.19
+280,Tokyo,UK,4-star,415.46,3.2,deluxe,0.19
+281,Paris,US,4-star,88.27,3.2,standard,0.14
+282,London,UK,4-star,281.36,3.9,standard,0.2
+283,London,Italy,3-star,157.49,4.7,suite,0.2
+284,Paris,Italy,4-star,432.26,4.2,deluxe,0.12
+285,Madrid,France,4-star,289.39,4.6,suite,0.2
+286,Dubai,US,4-star,197.66,3.5,deluxe,0.19
+287,Tokyo,France,3-star,306.69,4.7,suite,0.1
+288,Paris,Germany,4-star,339.42,4.6,standard,0.17
+289,Tokyo,US,5-star,92.07,4.8,standard,0.11
+290,Paris,Italy,4-star,198.06,3.8,standard,0.12
+291,New York,Spain,5-star,177.48,3.2,suite,0.15
+292,Sydney,US,3-star,262.2,4.6,deluxe,0.14
+293,London,US,3-star,149.29,3.8,standard,0.1
+294,New York,Spain,3-star,112.93,3.5,suite,0.16
+295,San Francisco,Spain,5-star,220.24,3.3,standard,0.19
+296,Sydney,France,4-star,145.0,4.2,deluxe,0.18
+297,Berlin,Germany,3-star,248.49,4.8,suite,0.15
+298,Rome,US,4-star,221.64,3.5,suite,0.17
+299,Berlin,France,3-star,444.21,3.5,suite,0.19
+300,Tokyo,Italy,3-star,342.4,4.8,standard,0.17
+301,Dubai,US,4-star,416.25,4.4,standard,0.14
+302,Paris,France,5-star,65.11,4.7,deluxe,0.12
+303,Berlin,Italy,3-star,251.17,3.5,standard,0.14
+304,Berlin,US,5-star,379.69,3.9,deluxe,0.11
+305,Sydney,UK,3-star,386.56,4.7,standard,0.11
+306,London,Germany,3-star,134.94,4.8,standard,0.16
+307,London,Italy,3-star,126.26,3.6,standard,0.13
+308,San Francisco,France,4-star,197.0,4.8,suite,0.15
+309,Paris,UK,5-star,498.39,3.9,standard,0.13
+310,Paris,Germany,3-star,170.08,4.1,deluxe,0.15
+311,Sydney,Germany,5-star,369.7,3.2,standard,0.16
+312,New York,US,3-star,91.96,4.5,deluxe,0.19
+313,Dubai,Italy,4-star,315.46,4.7,standard,0.1
+314,Rome,US,5-star,344.96,3.4,deluxe,0.14
+315,Berlin,France,5-star,320.91,4.4,standard,0.11
+316,Madrid,Italy,5-star,391.29,3.7,suite,0.2
+317,Paris,France,3-star,286.23,4.5,suite,0.19
+318,Berlin,Italy,3-star,260.12,3.5,suite,0.18
+319,Paris,Spain,3-star,185.23,4.0,deluxe,0.13
+320,Tokyo,US,5-star,203.19,4.5,suite,0.2
+321,Madrid,Italy,4-star,234.33,3.4,standard,0.14
+322,Tokyo,Italy,5-star,122.55,4.9,suite,0.19
+323,Dubai,Germany,4-star,454.54,4.8,standard,0.12
+324,Madrid,US,3-star,309.62,5.0,suite,0.16
+325,San Francisco,Germany,3-star,426.73,4.4,deluxe,0.19
+326,New York,UK,5-star,299.17,4.5,standard,0.14
+327,Rome,France,3-star,199.82,3.2,deluxe,0.13
+328,New York,France,3-star,454.01,4.1,suite,0.12
+329,New York,UK,3-star,357.56,4.3,deluxe,0.11
+330,London,Germany,3-star,217.11,3.0,standard,0.1
+331,Berlin,Germany,5-star,390.64,4.4,suite,0.17
+332,Berlin,France,5-star,204.06,4.0,suite,0.13
+333,London,UK,3-star,383.99,4.7,deluxe,0.17
+334,New York,France,3-star,323.14,3.5,suite,0.2
+335,Dubai,Italy,5-star,411.53,3.4,standard,0.12
+336,Paris,US,4-star,302.23,4.1,deluxe,0.19
+337,Rome,France,3-star,379.77,3.7,standard,0.17
+338,San Francisco,UK,4-star,127.43,4.8,deluxe,0.17
+339,San Francisco,France,3-star,473.64,4.2,suite,0.16
+340,Paris,France,4-star,242.02,3.8,deluxe,0.1
+341,London,France,5-star,58.03,5.0,deluxe,0.2
+342,Dubai,France,4-star,417.59,3.8,standard,0.19
+343,San Francisco,Germany,4-star,263.97,4.9,suite,0.11
+344,New York,Italy,3-star,302.12,3.8,suite,0.17
+345,Paris,Italy,4-star,469.44,4.7,deluxe,0.19
+346,Paris,France,5-star,347.46,4.4,deluxe,0.16
+347,Paris,France,4-star,451.59,3.6,standard,0.13
+348,Rome,Spain,3-star,227.78,3.1,suite,0.12
+349,San Francisco,US,4-star,141.33,4.9,standard,0.18
+350,Berlin,US,4-star,296.09,4.8,deluxe,0.12
+351,Rome,Germany,5-star,404.53,4.4,standard,0.18
+352,Dubai,US,4-star,63.37,3.8,suite,0.11
+353,London,Germany,3-star,110.41,4.2,deluxe,0.19
+354,Paris,Germany,5-star,197.39,3.3,suite,0.17
+355,London,Spain,5-star,167.67,4.7,standard,0.14
+356,London,Italy,4-star,100.89,3.0,deluxe,0.2
+357,Paris,Spain,5-star,196.57,3.4,suite,0.13
+358,Madrid,Germany,3-star,255.93,4.5,suite,0.18
+359,Tokyo,France,5-star,359.31,4.0,deluxe,0.16
+360,Rome,France,4-star,231.04,3.1,deluxe,0.16
+361,Paris,Germany,4-star,100.32,4.0,deluxe,0.16
+362,San Francisco,Spain,5-star,192.55,4.9,deluxe,0.14
+363,Rome,Germany,4-star,232.95,3.6,suite,0.15
+364,Paris,Italy,5-star,416.98,3.7,standard,0.19
+365,Paris,UK,3-star,380.93,4.9,deluxe,0.2
+366,Paris,Spain,4-star,335.66,4.3,standard,0.13
+367,Dubai,Italy,3-star,128.35,3.7,deluxe,0.15
+368,Tokyo,Spain,4-star,374.36,3.5,suite,0.15
+369,Dubai,France,3-star,369.76,3.4,standard,0.19
+370,New York,Italy,3-star,296.18,3.6,deluxe,0.18
+371,Tokyo,Germany,3-star,72.2,4.4,suite,0.12
+372,Dubai,US,3-star,252.93,4.1,standard,0.14
+373,Berlin,Italy,4-star,191.7,4.9,suite,0.16
+374,Sydney,Italy,3-star,198.92,3.3,standard,0.11
+375,Berlin,Spain,5-star,314.44,3.1,deluxe,0.14
+376,New York,France,4-star,155.05,4.4,standard,0.1
+377,Dubai,Germany,4-star,94.0,4.6,deluxe,0.15
+378,Rome,Spain,5-star,348.63,4.8,standard,0.1
+379,New York,Germany,5-star,360.18,3.4,deluxe,0.17
+380,New York,Germany,3-star,340.56,3.6,deluxe,0.1
+381,Tokyo,Italy,5-star,54.37,3.9,deluxe,0.18
+382,Dubai,Germany,4-star,380.36,3.0,deluxe,0.15
+383,New York,UK,4-star,357.35,4.4,deluxe,0.16
+384,Madrid,Spain,3-star,224.47,4.5,suite,0.15
+385,Tokyo,Spain,5-star,440.47,3.8,deluxe,0.11
+386,Berlin,US,3-star,453.85,4.2,suite,0.14
+387,Rome,Italy,5-star,363.37,3.5,suite,0.2
+388,Sydney,Italy,5-star,349.78,4.4,standard,0.18
+389,Rome,UK,3-star,253.04,3.8,suite,0.16
+390,Rome,Italy,5-star,373.22,3.4,standard,0.2
+391,San Francisco,Italy,5-star,327.34,3.8,deluxe,0.11
+392,San Francisco,Italy,4-star,248.83,3.8,suite,0.18
+393,Tokyo,Spain,4-star,76.07,3.3,deluxe,0.11
+394,Berlin,Spain,4-star,158.53,3.8,standard,0.14
+395,Madrid,Spain,4-star,303.9,4.1,standard,0.15
+396,London,France,5-star,226.98,5.0,suite,0.11
+397,Madrid,France,5-star,389.99,4.9,suite,0.13
+398,Dubai,US,3-star,205.93,4.6,suite,0.19
+399,Rome,Spain,5-star,253.43,4.1,standard,0.11
+400,Paris,UK,5-star,284.53,3.9,deluxe,0.17
+401,Paris,Italy,5-star,217.16,5.0,suite,0.18
+402,Madrid,Germany,4-star,461.08,4.7,deluxe,0.14
+403,Dubai,Germany,5-star,439.72,4.4,standard,0.2
+404,Tokyo,Spain,5-star,255.43,3.8,standard,0.12
+405,New York,Germany,5-star,434.26,3.3,standard,0.11
+406,Rome,UK,5-star,465.99,3.2,standard,0.19
+407,Berlin,Italy,4-star,285.57,3.4,suite,0.19
+408,Dubai,France,5-star,176.5,4.7,standard,0.17
+409,Dubai,Spain,4-star,390.43,3.1,suite,0.14
+410,Berlin,Spain,4-star,394.16,4.4,deluxe,0.11
+411,Tokyo,UK,5-star,76.8,4.7,suite,0.16
+412,Tokyo,UK,5-star,489.56,3.5,deluxe,0.17
+413,Tokyo,Germany,3-star,316.3,3.6,standard,0.16
+414,Berlin,Italy,4-star,245.96,4.3,deluxe,0.12
+415,Berlin,France,5-star,304.29,4.3,suite,0.14
+416,London,Italy,3-star,212.82,4.5,suite,0.15
+417,San Francisco,France,5-star,73.94,3.6,deluxe,0.17
+418,New York,Germany,3-star,133.89,3.2,suite,0.2
+419,Madrid,France,3-star,235.46,3.7,standard,0.18
+420,Dubai,Spain,5-star,186.88,3.4,deluxe,0.11
+421,Paris,UK,3-star,413.75,4.6,standard,0.19
+422,Berlin,Italy,3-star,131.7,4.4,standard,0.17
+423,Dubai,US,4-star,346.29,4.6,deluxe,0.12
+424,Berlin,Spain,5-star,146.04,3.6,suite,0.13
+425,Dubai,Spain,5-star,315.46,4.2,deluxe,0.16
+426,Berlin,UK,4-star,313.26,3.5,deluxe,0.16
+427,Tokyo,US,5-star,144.85,4.8,suite,0.14
+428,Tokyo,Germany,4-star,269.43,4.9,suite,0.18
+429,London,US,3-star,288.15,3.2,standard,0.19
+430,San Francisco,Germany,5-star,474.31,4.7,standard,0.11
+431,Sydney,US,4-star,452.01,4.3,standard,0.19
+432,Dubai,UK,5-star,375.01,4.5,standard,0.16
+433,Paris,Germany,5-star,379.63,3.6,standard,0.17
+434,Sydney,France,4-star,360.94,4.0,standard,0.12
+435,San Francisco,US,4-star,91.15,3.2,suite,0.1
+436,Tokyo,UK,3-star,408.82,4.4,deluxe,0.12
+437,Sydney,US,4-star,288.32,4.1,deluxe,0.2
+438,Tokyo,Germany,5-star,151.06,3.3,deluxe,0.14
+439,Tokyo,US,5-star,78.68,4.4,deluxe,0.16
+440,Sydney,UK,3-star,115.58,4.9,standard,0.16
+441,San Francisco,France,3-star,422.71,3.7,suite,0.13
+442,New York,UK,4-star,437.52,3.1,standard,0.12
+443,New York,France,3-star,492.92,3.3,standard,0.17
+444,San Francisco,Spain,4-star,229.54,3.7,deluxe,0.17
+445,Rome,Germany,5-star,448.44,3.2,standard,0.15
+446,Tokyo,US,4-star,342.46,4.1,suite,0.16
+447,New York,Spain,5-star,276.55,4.9,suite,0.16
+448,Paris,Spain,5-star,498.89,4.2,deluxe,0.13
+449,Dubai,Italy,5-star,271.29,4.0,suite,0.13
+450,Sydney,UK,4-star,328.22,4.0,suite,0.18
+451,San Francisco,Italy,4-star,364.36,4.2,standard,0.12
+452,Tokyo,France,5-star,158.89,4.5,deluxe,0.12
+453,Berlin,France,4-star,188.4,3.2,standard,0.13
+454,Tokyo,France,3-star,363.12,4.5,suite,0.1
+455,Rome,Italy,3-star,333.49,4.8,suite,0.13
+456,London,UK,3-star,76.37,4.4,deluxe,0.17
+457,Paris,UK,3-star,108.8,4.0,deluxe,0.11
+458,London,France,3-star,494.79,3.2,suite,0.1
+459,Dubai,US,3-star,117.52,3.9,deluxe,0.13
+460,Berlin,France,4-star,498.06,3.8,deluxe,0.17
+461,Madrid,UK,4-star,460.7,3.8,standard,0.11
+462,Madrid,UK,3-star,192.28,4.2,standard,0.18
+463,Paris,Germany,3-star,99.92,3.3,deluxe,0.18
+464,San Francisco,Germany,5-star,447.39,4.6,suite,0.18
+465,Rome,UK,3-star,75.42,4.5,standard,0.18
+466,Sydney,Spain,5-star,182.49,4.9,standard,0.16
+467,Madrid,UK,3-star,156.14,3.4,standard,0.15
+468,Paris,US,4-star,442.14,3.2,deluxe,0.18
+469,Berlin,Italy,4-star,363.73,4.8,suite,0.15
+470,Sydney,Italy,4-star,254.18,3.6,suite,0.12
+471,San Francisco,France,5-star,495.32,3.2,suite,0.17
+472,Dubai,US,4-star,372.48,4.5,deluxe,0.16
+473,Dubai,Italy,5-star,293.5,4.9,deluxe,0.11
+474,Tokyo,France,4-star,192.25,4.5,deluxe,0.17
+475,New York,Spain,3-star,221.95,3.1,suite,0.15
+476,Sydney,Germany,5-star,453.77,4.2,suite,0.13
+477,San Francisco,US,4-star,418.45,4.9,deluxe,0.14
+478,Madrid,France,4-star,467.94,3.5,suite,0.13
+479,Madrid,Italy,3-star,298.74,3.6,suite,0.2
+480,San Francisco,Germany,5-star,312.8,3.6,suite,0.12
+481,Tokyo,France,4-star,154.24,4.7,deluxe,0.13
+482,Dubai,Italy,4-star,183.85,3.8,standard,0.2
+483,Rome,Spain,3-star,154.75,3.3,suite,0.17
+484,Madrid,France,5-star,434.62,4.9,standard,0.13
+485,London,Germany,4-star,406.34,4.0,deluxe,0.18
+486,Tokyo,Germany,3-star,379.27,4.0,standard,0.18
+487,London,Spain,4-star,259.9,3.6,standard,0.18
+488,Rome,UK,4-star,365.06,4.1,suite,0.19
+489,San Francisco,France,3-star,89.2,4.0,suite,0.12
+490,Tokyo,US,4-star,150.7,3.5,deluxe,0.11
+491,Madrid,France,4-star,479.19,4.6,deluxe,0.12
+492,Berlin,Spain,3-star,292.74,3.7,deluxe,0.14
+493,Dubai,Italy,4-star,127.86,4.4,suite,0.15
+494,Rome,Spain,4-star,371.16,3.7,standard,0.13
+495,Tokyo,US,4-star,79.08,4.7,suite,0.1
+496,Sydney,France,5-star,211.78,3.7,standard,0.19
+497,San Francisco,France,5-star,90.66,3.4,suite,0.15
+498,San Francisco,UK,5-star,76.56,3.9,standard,0.12
+499,Dubai,Spain,3-star,356.34,4.0,standard,0.1
+500,Berlin,Spain,3-star,282.17,3.3,standard,0.1
