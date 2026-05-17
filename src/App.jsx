@@ -612,7 +612,7 @@ function ComparisonBar({ label, variantA, variantB, suffix, insight }) {
             <span>{format(variantA)}</span>
           </div>
           <div className="h-3 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
-            <div style={{ width: aWidth }} className="h-full rounded-full bg-slate-400 dark:bg-slate-600" />
+            <div style={{ width: aWidth }} className="h-full rounded-full bg-amber-400 dark:bg-amber-400" />
           </div>
         </div>
 
@@ -657,7 +657,7 @@ function FunnelCard({ row, index }) {
             <span>{row.aPct.toFixed(1)}%</span>
           </div>
           <div className="h-2 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
-            <div style={{ width: `${row.aPct}%` }} className="h-full rounded-full bg-slate-400 dark:bg-slate-600" />
+            <div style={{ width: `${row.aPct}%` }} className="h-full rounded-full bg-amber-400 dark:bg-amber-400" />
           </div>
         </div>
 
@@ -673,9 +673,9 @@ function FunnelCard({ row, index }) {
       </div>
 
       <div className="mt-5 grid grid-cols-2 gap-3 text-xs font-bold text-slate-500 dark:text-slate-400">
-        <div className="rounded-2xl bg-slate-100 p-3 dark:bg-slate-900">
-          <p>A Count</p>
-          <p className="mt-1 text-sm font-black text-slate-950 dark:text-white">{row.a.toLocaleString()}</p>
+        <div className="rounded-2xl bg-amber-400/10 p-3 dark:bg-amber-400/10">
+          <p className="text-amber-700 dark:text-amber-300">A Count</p>
+          <p className="mt-1 text-sm font-black text-amber-700 dark:text-amber-300">{row.a.toLocaleString()}</p>
         </div>
         <div className="rounded-2xl bg-cyan-400/10 p-3">
           <p>B Count</p>
