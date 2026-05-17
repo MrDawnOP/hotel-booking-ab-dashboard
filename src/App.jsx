@@ -22,7 +22,7 @@ import {
 
 // visual-patch: variant-a-orange-v3
 const repoLink = 'https://github.com/MrDawnOP/hotel-booking-ab-dashboard';
-const portfolioLink = 'PASTE_YOUR_PORTFOLIO_LINK_HERE';
+const portfolioLink = 'https://ankit-vyas-analytics-portfolio-io5c.vercel.app/';
 
 const navItems = [
   { label: 'Overview', href: '#overview' },
