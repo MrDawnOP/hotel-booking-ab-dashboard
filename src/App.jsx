@@ -20,6 +20,7 @@ import {
   Zap,
 } from 'lucide-react';
 
+// visual-patch: variant-a-orange-v3
 const repoLink = 'https://github.com/MrDawnOP/hotel-booking-ab-dashboard';
 const portfolioLink = 'PASTE_YOUR_PORTFOLIO_LINK_HERE';
 
@@ -612,7 +613,7 @@ function ComparisonBar({ label, variantA, variantB, suffix, insight }) {
             <span>{format(variantA)}</span>
           </div>
           <div className="h-3 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
-            <div style={{ width: aWidth }} className="h-full rounded-full bg-amber-400 dark:bg-amber-400" />
+            <div style={{ width: aWidth, backgroundColor: "#f97316", boxShadow: "0 0 14px rgba(249,115,22,0.55)" }} className="h-full rounded-full" />
           </div>
         </div>
 
@@ -657,7 +658,7 @@ function FunnelCard({ row, index }) {
             <span>{row.aPct.toFixed(1)}%</span>
           </div>
           <div className="h-2 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-800">
-            <div style={{ width: `${row.aPct}%` }} className="h-full rounded-full bg-amber-400 dark:bg-amber-400" />
+            <div style={{ width: `${row.aPct}%`, backgroundColor: "#f97316", boxShadow: "0 0 14px rgba(249,115,22,0.55)" }} className="h-full rounded-full" />
           </div>
         </div>
 
